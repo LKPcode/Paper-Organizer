@@ -1,0 +1,1 @@
+declare module "filepond-plugin-file-validate-type/dist/filepond-plugin-file-validate-type.esm.js"

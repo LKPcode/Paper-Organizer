@@ -1,0 +1,1 @@
+declare module '@heroicons/vue/20/solid';
